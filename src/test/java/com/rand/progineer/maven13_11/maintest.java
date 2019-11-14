@@ -28,7 +28,7 @@ class maintest {
 	@Test
 	void testMul() {
 		    Manipulation n = new Manipulation () ; 
-			 int result = n.mul(2, 2);
+			 int result = n.mul(2,2);
 			 assertEquals(4,result);
 	}
 	
