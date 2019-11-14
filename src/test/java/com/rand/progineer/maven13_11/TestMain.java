@@ -10,7 +10,7 @@ import org.junit.*;
 
 
 
-class maintest {
+class mainTest {
 	@Test
 	void testAddition() {
 		    Manipulation n = new Manipulation () ; 
